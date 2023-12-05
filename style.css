@@ -8,3 +8,11 @@ header {
 body {
   background-color:lightgrey;
 }
+
+img {
+  height:130px;
+}
+
+.headerimg {
+  width:200px;
+}
